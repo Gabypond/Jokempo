@@ -1,0 +1,103 @@
+body {
+     font: normal normal normal 29px/51px Segoe Print;
+     background-color:#9CEAEF
+}
+.container{
+     margin-top: 50px;
+     color: #3DCCC7;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+    }
+.winner {
+    padding: 8px;
+    border-radius: 13px 13px 0px 0px;
+    font-size: 29px;
+    background-color: white;
+}
+.namePlayers{
+    font-size: 33px;
+    padding: 8px;
+    border-radius: 13px;
+    background-color: white;
+    display: flex;
+}
+.points{
+    margin: 0px 25px 0px 25px;
+    font-size: 37px;
+}
+.x {
+    font-size: 58px;
+    margin: 0px 40px 0px 40px;
+    color: #C4FFF9;
+}
+.container2{
+    margin-top: 45px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagesplayer1{
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+.imagesplayer2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.containermain{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.container3{
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagedireita{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+
+.division{
+    align-self: center;
+    color: #C4FFF9;
+    font-size: 95px;
+    padding: 0px 21px 0px 21px;
+}
+
+.imagecenter{
+    padding: 41px 16px 41px 16px;
+    border-radius: 20px;
+    margin-left: 19px;
+    background-color: white
+}
+
+.imagecenter2{
+
+    padding: 41px 16px 41px 16px;
+    border-radius: 20px;
+    margin-right: 19px;
+    background-color: white
+}
+
+.imageesquerda{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    background-color: white;
+}
